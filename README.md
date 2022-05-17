@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GFX23
 - 👀 I'm life-long learner, interested in the latest technologies.
-- 🌱 I’m currently learning BackEnd - Node.js - EXPRESS, MongoDB and React + Javascript on FrontEnd
+- 🌱 I’m currently using BackEnd - Node.js, EXPRESS/Next.js, MongoDB and React + Javascript on FrontEnd
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me? Send email on tomas.spacil@tsindustry.cz
 
