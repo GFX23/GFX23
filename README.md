@@ -1,8 +1,33 @@
 - 👋 Hi, I’m @GFX23
-- 👀 I'm life-long learner, interested in the latest technologies.
-- 🌱 I’m currently using BackEnd - Node.js, EXPRESS/Next.js, MongoDB and React + Javascript on FrontEnd
-- 💞️ I’m looking to collaborate on various projects.
-- 📫 How to reach me? Send email on tomas.spacil@tsindustry.cz
+- 👀 I'm Fullstack Developer
+- 🌱 I’m currently using BackEnd - Node.js, EXPRESS/Next.js, Firebase/AWS and React/Redux + Typescript, GraphQL on FrontEnd
+- 💞️ Need help with something?
+- 📫 Reach me at email: tomas.spacil@tsindustry.cz
+
+PROJECTS:
+  - Check my REPO: crm-tsindustry
+    - My latest project, which iam refactoring from my old version to new one with TypeScript, Redux/GraphQL.
+    - Its made for industrial company, for accounting, tracking orders and for some dashboards.
+
+SKILLS:
+  - FrontEnd:
+    - React
+    - Typescript
+    - GraphQL
+    - Redux
+    - Tailwind and their frameworks, UI Libraries etc.
+
+  - BackEnd:
+    - Node.js/Express
+    - GraphQL
+    - REST API
+    
+  - Services:
+    - Firebase(Auth/DB)
+    - Heroku(Deploy/CD)
+    - Netlify(Deploy)
+    - MongoDB
+    - 
 
 <!---
 GFX23/GFX23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
