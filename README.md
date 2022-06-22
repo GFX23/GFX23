@@ -27,7 +27,6 @@ SKILLS:
     - Heroku(Deploy/CD)
     - Netlify(Deploy)
     - MongoDB
-    - 
 
 <!---
 GFX23/GFX23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
