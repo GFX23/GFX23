@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GFX23
 - 👀 I'm Fullstack Developer
-- 🌱 I’m currently using BackEnd - Node.js, EXPRESS/Next.js, Firebase/AWS and React/Redux + Typescript, GraphQL on FrontEnd
+- 🌱 I’m currently using BackEnd - Next.js - alt. Node.jsEXPRESS, Firebase/AWS and React + Typescript, GraphQL/Redux on FrontEnd
 - 💞️ Need help with something?
 - 📫 Reach me at email: tomas.spacil@tsindustry.cz
 
