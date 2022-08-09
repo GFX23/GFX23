@@ -6,19 +6,19 @@
 
 PROJECTS:
   - Check my REPO: crm-tsindustry
-    - My latest project, which iam refactoring from my old version to new one with TypeScript, Redux/GraphQL.
+    - My latest project, which iam refactoring from my old version to new one with Next.JS, TypeScript, GraphQL.
     - Its made for industrial company, for accounting, tracking orders and for some dashboards.
 
 SKILLS:
   - FrontEnd:
     - React
     - Typescript
-    - GraphQL
-    - Redux
+    - GraphQL/Redux
     - Tailwind and their frameworks, UI Libraries etc.
 
   - BackEnd:
     - Node.js/Express
+    - Next.JS
     - GraphQL
     - REST API
     
