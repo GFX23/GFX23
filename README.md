@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GFX23
-- 👀 I'm Fullstack Developer
-- 🌱 I’m currently using BackEnd - Next.js - alt. Node.jsEXPRESS, Firebase/AWS and React + Typescript, GraphQL/Redux on FrontEnd
+- 👀 I'm Front-End Developer
+- 🌱 I’m currently using Next.js - alt. Node.js/EXPRESS, Firebase/AWS and React + Typescript, GraphQL/Redux on FrontEnd
 - 💞️ Need help with something?
 - 📫 Reach me at email: tomas.spacil@tsindustry.cz
 
@@ -16,19 +16,6 @@ SKILLS:
     - GraphQL/Redux
     - Tailwind and their frameworks, UI Libraries etc.
 
-  - BackEnd:
-    - Node.js/Express
-    - Next.JS
-    - GraphQL
-    - REST API
-    
   - Services:
-    - Firebase(Auth/DB)
-    - Heroku(Deploy/CD)
-    - Netlify(Deploy)
-    - MongoDB
+    - DB (Firebase, MongoDB)
 
-<!---
-GFX23/GFX23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
