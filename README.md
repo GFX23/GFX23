@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GFX23
 - 👀 I'm Front-End Developer
-- 🌱 I’m currently using Next.js - alt. Node.js/EXPRESS, Firebase/AWS and React + Typescript, GraphQL/Redux on FrontEnd
+- 🌱 I’m currently using Next.js - alt. Node.js/EXPRESS, Firebase and React + Typescript, GraphQL/Redux on FrontEnd
 - 💞️ Need help with something?
 - 📫 Reach me at email: tomas.spacil@tsindustry.cz
 
