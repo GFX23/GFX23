@@ -2,7 +2,7 @@
 - 👀 I'm Front-End Developer
 - 🌱 I’m currently using Next.js - alt. Node.js/EXPRESS, Firebase and React + Typescript, GraphQL/Redux on FrontEnd
 - 💞️ Need help with something?
-- 📫 Reach me at email: tomas.spacil@tsindustry.cz
+- 📫 Reach me at email: spacil-tomas@seznam.cz
 
 PROJECTS:
   - Check my REPO: crm-tsindustry
@@ -14,7 +14,7 @@ SKILLS:
     - React
     - Typescript
     - GraphQL/Redux
-    - Tailwind and their frameworks, UI Libraries etc.
+    - Tailwind, UI Libraries etc.
 
   - Services:
     - DB (Firebase, MongoDB)
