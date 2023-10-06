@@ -7,7 +7,7 @@
 PROJECTS:
 
 - Check my REPO: LeetCode
-    - There i'm storing solutions from solved puzzles with explanation.
+    - There i'm storing solutions from solved puzzles with explanations.
       
 - Check my REPO: crm-tsindustry2.0
     - My latest project, which iam refactoring from my old version to new one with Next.JS, TypeScript, GraphQL.
