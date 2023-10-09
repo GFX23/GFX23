@@ -11,7 +11,7 @@ PROJECTS:
       
 - Check my REPO: crm-tsindustry2.0
     - One of my public projects, which was refactored from my old version to new one with Next.JS, TypeScript.
-    - Its made for industrial company, for accounting, tracking orders and for some dashboards.
+    - It was made for industrial company, for accounting, tracking orders and for some dashboards.
 
 SKILLS:
   - FrontEnd:
