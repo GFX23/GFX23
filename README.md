@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm GFX23</h1>
 <h3 align="center">A full-stack dev from Czech Republic.</h3>
 
-- 🔭 I’m currently working on [CRM SYSTEM](https://github.com/GFX23/gso-crm-react-ts-gql)
+- 🔭 I’m currently working on Private projects
 
 - 🌱 I’m currently learning **In Depth - GraphQL, Postgres, MongoDB**
 
