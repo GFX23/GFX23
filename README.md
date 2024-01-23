@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on Private projects
 
-- 🌱 I’m currently learning **In Depth - GraphQL, Postgres, MongoDB**
+- 🌱 I’m learning **IN DEPTH - NEXT.JS 14.1.0 - POSTGRES - TYPESCRIPT **
 
 - 👯 I’m looking to collaborate on **Full-stack projects**
-
-- 💬 Ask me about **React/Typescript, GraphQL (ApolloServer/MongoDB)**
 
 - 📫 How to reach me **spacil-tomas@seznam.cz**
 
