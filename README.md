@@ -3,10 +3,10 @@
 
 - 🔭 I’m currently working on Private projects
 
-- 🌱 I’m learning **IN DEPTH -
+- 🌱 I’m learning **IN DEPTH 
       NEXT.JS 14.1.0
 
-- SKILLS:
+- 🌱 SKILLS:
     FE: NEXT.JS, React, Tailwind, SASS, Mui, Typescript
     BE: Postgres, MongoDB, Prisma, Node.js, Express
 
