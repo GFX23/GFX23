@@ -3,7 +3,12 @@
 
 - 🔭 I’m currently working on Private projects
 
-- 🌱 I’m learning **IN DEPTH - NEXT.JS 14.1.0 - POSTGRES - TYPESCRIPT **
+- 🌱 I’m learning **IN DEPTH -
+      NEXT.JS 14.1.0
+
+- SKILLS:
+    FE: NEXT.JS, React, Tailwind, SASS, Mui, Typescript
+    BE: Postgres, MongoDB, Prisma, Node.js, Express
 
 - 👯 I’m looking to collaborate on **Full-stack projects**
 
