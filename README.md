@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm GFX23</h1>
+<h1 align="center">Greetings, my name is Tomas.</h1>
 <h3 align="center">A full-stack dev from Czech Republic.</h3>
 
 - 🔭 I’m currently working on Private projects
@@ -7,7 +7,7 @@
       NEXT.JS 14.1.0
 
 - 🌱 SKILLS:
-    FE: NEXT.JS, React, Tailwind, SASS, Mui, Typescript
+    FE: NEXT.JS, React, Typescript, Tailwind, SASS, Mui
     BE: Postgres, MongoDB, Prisma, Node.js, Express
 
 - 👯 I’m looking to collaborate on **Full-stack projects**
