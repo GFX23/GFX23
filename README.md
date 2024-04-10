@@ -6,9 +6,10 @@
 - 🌱 I’m learning **IN DEPTH 
       NEXT.JS 14.1.0
 
-- 🌱 SKILLS:
-    FE: NEXT.JS, React, Typescript, Tailwind, SASS, MUI
-    BE: Postgres, MongoDB, Prisma (Drizzle), Node.js, Express
+- 🌱 SKILLS:<br>
+    FE: NEXT.JS, React, Typescript, Tailwind, SASS, MUI<br>
+    BE: Postgres, MongoDB, Prisma (Drizzle), Node.js, Express<br>
+    LIBS: react-hook-form, zod, lodash, fullcalendar, toastify, drop-zone etc. etc.
 
 - 👯 I’m looking to collaborate on **Full-stack projects**
 
