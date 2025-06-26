@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Private projects
 
 - 🌱 I’m learning **IN DEPTH 
-      NEXT.JS 14.1.0
+      NEXT.JS 15
 
 - 🌱 SKILLS:<br>
     FE: NEXT.JS, React, Typescript, Tailwind, SASS, MUI<br>
