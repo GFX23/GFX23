@@ -71,12 +71,9 @@ I build <b>high-performance web applications</b> with a strong focus on <b>scala
 ---
 
 ### 📊 GitHub Stats
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gfx23&" alt="gfx23" /></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gfx23&show_icons=true&locale=en&layout=compact" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gfx23&theme=default" />
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gfx23&" alt="gfx23" /></p>
