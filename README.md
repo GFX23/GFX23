@@ -23,20 +23,19 @@ I build <b>high-performance web applications</b> with a strong focus on <b>scala
 - TypeScript
 - TailwindCSS
 - MUI
+- ShadCN
 
 **Backend / Data**
 - Node.js
 - PostgreSQL
 - MongoDB
 - Prisma / Drizzle ORM
-- Firebase
+- Docker / Azure / Google Cloud
 
 **APIs & Tooling**
 - REST / GraphQL
-- React Hook Form
-- Zod
+- React Hook Form / Zod
 - Zustand
-- Redux Toolkit
 - Chart.js
 - Turborepo
 - CI/CD
