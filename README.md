@@ -14,16 +14,16 @@
 
 ---
 
-### 💻 About Me
+### About Me
 
 I am a senior-focused frontend engineer and contractor who thrives in small, agile teams. I specialize in building complex multi-tenant applications, ERP/CRM systems, and AI-driven platforms. Rather than just writing code, I enjoy participating in technical decision-making and architectural design.
 
-* 📈 **Performance-driven:** Obsessed with Core Web Vitals (LCP, TBT) and advanced Next.js rendering strategies.
-* 🌿 **Life balance:** Proud father of three, fitness enthusiast, and advocate for longevity & well-being.
+ **Performance-driven:** Obsessed with Core Web Vitals (LCP, TBT) and advanced Next.js rendering strategies.
+ **Life balance:** Proud father of three, fitness enthusiast, and advocate for longevity & well-being.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -48,25 +48,12 @@ I am a senior-focused frontend engineer and contractor who thrives in small, agi
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gfx23&show_icons=true&theme=visual_studio_dark&locale=en" alt="Tomáš's GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gfx23&theme=visual_studio_dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gfx23&show_icons=true&locale=en&layout=compact&theme=visual_studio_dark" alt="Top Languages" />
-</p>
-
----
-
-### 🤝 Let's Connect
+### Let's Connect
 
 I am open to **freelance & contract work**, complex frontend challenges, and long-term collaborations on meaningful products. 
 
 Drop me a line if you want to build something scalable together!
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gfx23&" alt="gfx23" /></p>
 <p>
