@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Next.js / React Architect & Developer from the Czech Republic</strong><br />
+  <strong>Next.js / React fullstack developer from the Czech Republic</strong><br />
   Focusing on high-performance web apps, scalable architecture, and clean code.
 </p>
 
@@ -16,10 +16,9 @@
 
 ### About Me
 
-I am a senior-focused frontend engineer and contractor who thrives in small, agile teams. I specialize in building complex multi-tenant applications, ERP/CRM systems, and AI-driven platforms. Rather than just writing code, I enjoy participating in technical decision-making and architectural design.
+I am a senior-focused fullstack engineer and contractor who thrives in smaller, agile teams. I specialize in building complex multi-tenant applications, ERP/CRM systems, and AI-driven platforms. I enjoy participating in technical decision-making and architectural design.
 
- **Performance-driven:** Obsessed with Core Web Vitals (LCP, TBT) and advanced Next.js rendering strategies.
- **Life balance:** Proud father of three, fitness enthusiast, and advocate for longevity & well-being.
+ * **Life balance:** Proud father of three, fitness enthusiast, and advocate for longevity & well-being.
 
 ---
 
